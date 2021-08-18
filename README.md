@@ -1,8 +1,8 @@
-# Academy_project_1
-Bairbnb_online P2P accomodation platform using Java, JSP, MySQL
+# Academy_project_1  
+Bairbnb_online P2P accomodation platform using Java, JSP, MySQL  
 
-Project bairbnb_Java, JSP 및 MySQL을 이용한 웹사이트 구현
-온라인 P2P 커뮤니티 플랫폼 서비스인 에어비앤비(airbnb)의 숙소 호스팅 및 숙소 예약 서비스를 구현
+Project bairbnb_Java, JSP 및 MySQL을 이용한 웹사이트 구현  
+온라인 P2P 커뮤니티 플랫폼 서비스인 에어비앤비(airbnb)의 숙소 호스팅 및 숙소 예약 서비스를 구현  
 
 
 진행인원: 5명
