@@ -8,6 +8,7 @@ Project bairbnb_Java, JSP 및 MySQL을 이용한 웹사이트 구현
 진행인원: 5명
 사용도구: Eclipse, DBeaver, Apache tomcat 8.5  
 사용기술: Java, JSP, jQuery, JSON, HTML, CSS, MySQL, ObjectAid, flatpickr, iamport (API)
+구현사이트 참고영상: https://www.youtube.com/watch?v=cDyLmXrnviw
 
 
 **담당 업무**
